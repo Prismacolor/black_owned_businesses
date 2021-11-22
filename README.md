@@ -11,6 +11,7 @@ Once approved, you will be added to the main branch.
 You can also fork the repo on your own
 
 Edits should be made in the following format:
+
 Business name:  
 
 Owner: 
