@@ -1,2 +1,2 @@
 # black_owned_businesses
-A list of black owned businesses to support
+Created for the BlacksinTech Groupme, we are curating a list of black businesses to support. 
